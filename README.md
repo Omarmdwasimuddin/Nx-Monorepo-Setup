@@ -69,4 +69,7 @@ npx nx g @nx/js:lib shared-dto
 ```bash
 npx nx serve order-service
 ```
+> OUTPUT
+<img width="431" height="210" alt="image" src="https://github.com/user-attachments/assets/bc073549-9ada-4c66-947f-e152a66f91e6" />
+
 ---
