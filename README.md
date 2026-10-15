@@ -65,3 +65,8 @@ npx nx g @nx/js:lib shared-dto
 
 ---
 
+#### Ekta app run kora [service run koro]
+```bash
+npx nx serve order-service
+```
+---
