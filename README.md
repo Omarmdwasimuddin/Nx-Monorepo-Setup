@@ -48,6 +48,9 @@ npx nx g @nx/nest:app auth-service
 
 <img width="1099" height="332" alt="image" src="https://github.com/user-attachments/assets/c38c9261-480a-41ad-810e-ea54fee36d58" />
 
+```bash
+npx nx g @nx/nest:app order-service
+```
 ---
 
 
