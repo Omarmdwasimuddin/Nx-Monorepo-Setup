@@ -34,7 +34,7 @@ code .
 ```
 ---
 
-####
+#### heading...
 ```bash
 npm i --save-dev @nx/nest
 ```
@@ -42,7 +42,7 @@ npm i --save-dev @nx/nest
 
 #### NestJS app add kora [service create koro]
 ```bash
-nx g @nx/nest:app order-service
+npx nx g @nx/nest:app auth-service
 ```
 ---
 
