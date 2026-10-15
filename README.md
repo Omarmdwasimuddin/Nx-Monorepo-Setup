@@ -26,4 +26,10 @@ npx create-nx-workspace@latest my-workspace
 
 <img width="538" height="131" alt="image" src="https://github.com/user-attachments/assets/1c77660f-6425-4b23-8f7e-afde5b945807" />
 
+```bash
+cd my-workspace
+```
+```bash
+code .
+```
 ---
