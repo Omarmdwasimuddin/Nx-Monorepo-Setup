@@ -33,3 +33,12 @@ cd my-workspace
 code .
 ```
 ---
+
+#### NestJS app add kora [service create koro]
+```bash
+nx g @nx/nest:app order-service
+```
+---
+
+
+
