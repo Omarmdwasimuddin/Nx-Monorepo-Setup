@@ -13,3 +13,9 @@ nx --version
 npx nx --version
 ```
 ---
+
+#### Notun Nx Workspace toiry koro
+```bash
+npx create-nx-workspace@latest my-workspace
+```
+---
