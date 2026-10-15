@@ -24,4 +24,6 @@ npx create-nx-workspace@latest my-workspace
 
 <img width="955" height="191" alt="image" src="https://github.com/user-attachments/assets/c14df0e3-f545-4959-be9e-ac2e2651e686" />
 
+<img width="538" height="131" alt="image" src="https://github.com/user-attachments/assets/1c77660f-6425-4b23-8f7e-afde5b945807" />
+
 ---
