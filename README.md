@@ -57,5 +57,7 @@ npx nx g @nx/nest:app order-service
 ```bash
 npx nx g @nx/js:lib shared-dto
 ```
+<img width="913" height="277" alt="image" src="https://github.com/user-attachments/assets/84f36c88-d0c4-472e-afbf-30c85417df75" />
+
 ---
 
