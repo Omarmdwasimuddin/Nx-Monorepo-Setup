@@ -53,5 +53,9 @@ npx nx g @nx/nest:app order-service
 ```
 ---
 
-
+#### Shared library banano
+```bash
+npx nx g @nx/js:lib shared
+```
+---
 
