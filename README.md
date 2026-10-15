@@ -46,6 +46,8 @@ npx nx g @nx/nest:app auth-service
 ```
 <img width="497" height="223" alt="image" src="https://github.com/user-attachments/assets/1711e9e5-ec94-405e-8f69-706645c1505f" />
 
+<img width="1099" height="332" alt="image" src="https://github.com/user-attachments/assets/c38c9261-480a-41ad-810e-ea54fee36d58" />
+
 ---
 
 
