@@ -34,7 +34,7 @@ code .
 ```
 ---
 
-#### heading...
+#### Nx Workspace-e NestJS Plugin Install kora
 ```bash
 npm i --save-dev @nx/nest
 ```
