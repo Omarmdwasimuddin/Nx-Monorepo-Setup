@@ -59,5 +59,7 @@ npx nx g @nx/js:lib shared-dto
 ```
 <img width="913" height="277" alt="image" src="https://github.com/user-attachments/assets/84f36c88-d0c4-472e-afbf-30c85417df75" />
 
+<img width="926" height="275" alt="image" src="https://github.com/user-attachments/assets/d819f32f-8c86-4710-91ba-99269c5c0182" />
+
 ---
 
