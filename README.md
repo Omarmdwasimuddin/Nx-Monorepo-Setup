@@ -44,6 +44,8 @@ npm i --save-dev @nx/nest
 ```bash
 npx nx g @nx/nest:app auth-service
 ```
+<img width="497" height="223" alt="image" src="https://github.com/user-attachments/assets/1711e9e5-ec94-405e-8f69-706645c1505f" />
+
 ---
 
 
