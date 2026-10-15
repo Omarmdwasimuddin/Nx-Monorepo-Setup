@@ -70,6 +70,8 @@ npx nx g @nx/js:lib shared-dto
 npx nx serve order-service
 ```
 > OUTPUT
+<img width="1377" height="310" alt="image" src="https://github.com/user-attachments/assets/071dca46-a2c0-4167-ba14-f1ab9e16b634" />
+
 <img width="431" height="210" alt="image" src="https://github.com/user-attachments/assets/bc073549-9ada-4c66-947f-e152a66f91e6" />
 
 ---
